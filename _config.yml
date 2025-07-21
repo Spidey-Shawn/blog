@@ -1,0 +1,14 @@
+# GitHub Pages configuration
+title: My Blog
+description: A simple blog website
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
